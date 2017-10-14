@@ -1,0 +1,6 @@
+a{ color:white}
+a:hover{ color：#00FA9A}/* 鼠标经过悬停字体颜色 */
+/* css 注释说明：以上代码为设置html中超链接统一字体颜色 */
+.div a{ color:#090}
+.div a:hover{ color:#00FA9A}
+/* css注释说明：以上代码为设置html中.div对象内超链接字体颜色

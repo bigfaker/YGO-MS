@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://v3.bootcss.com/favicon.ico">
+
+    <title>Signin Template for Bootstrap</title>
+    <link rel="stylesheet" href="index.css">
+    <link href="starter-template.css" rel="stylesheet">
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="signin.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="ie-emulation-modes-warning.js"></script>
+    <script type="text/javascript" src="jquery.js"></script>
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="http://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Yu-Gi-Oh!</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="file://C:/Users/silve/Desktop/ygo/Starter Template for Bootstrap_files/Starter Template for Bootstrap.htm">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li class="active"><a href="#contact">Login</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+
+
+<div class="headline">
+
+
+
+			<h1><a href="https://ygobbs.com/">Yu-Gi-Oh! </a></h1>
+
+
+
+			<p>Infomation Manage System</p>
+
+
+
+			<p>It has come back </p>
+
+
+
+		</div>
+
+
+    <div class="container" style="color:white">
+      <form class="form-signin" role="form">
+        <h2 class="form-signin-heading">Please sign in</h2>
+        <input class="form-control" placeholder="Captain ID" required="" autofocus="" type="email">
+        <input class="form-control" placeholder="Password" required="" type="password">
+        <div class="checkbox">
+          <label>
+            <input value="remember-me" type="checkbox"> Remember me
+          </label>
+        </div>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+      </form>
+
+    </div> <!-- /container -->
+
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="Signin%20Template%20for%20Bootstrap_files/ie10-viewport-bug-workaround.js"></script>
+  <audio autoplay="autoplay"><source src="20170940ee81fe8d19746f4cb124f3094e2f4b.mp3" type="audio/mpeg"></audio>
+
+
+
+</body></html>
