@@ -8,7 +8,7 @@
 |E-mail|silver.l.booker@foxmail.com|
 
 ### 预览
-[点击预览该网站](https://ygocore.cn:8443/YGO)
+[点击预览该网站](https://ygocore.cn/YGO)
 ### description
 - _技术_ : java+jsp+sqlserver2014
 
